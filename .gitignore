@@ -1,5 +1,5 @@
 # Mac OS
-.DS_Stroe
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
