@@ -1,5 +1,7 @@
 # Mac OS
 .DS_Store
+# MarkEditor
+.Archive/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
